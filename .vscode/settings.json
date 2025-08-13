@@ -1,0 +1,8 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "files.trimTrailingWhitespace": false,
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": true,
+    "files.trimTrailingWhitespaceInRegexAndStrings": false
+}
